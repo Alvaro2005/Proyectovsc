@@ -1,3 +1,8 @@
+:root {
+  --first-color: rgb(57, 83, 109);
+  --first-alpha-color: rgb(23, 50, 77);
+}
+
 body{
   color: blue;
 }
